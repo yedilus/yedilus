@@ -1,37 +1,20 @@
-# Hi there, I'm Yedil 👋
+### Hi there, I'm Yedil 👋
 
-A Computer Science graduate and Applied Data Analytics student passionate about data, algorithms, and continuous learning.
+🎓 **M.Sc. Student in Applied Data Analytics** @ Astana IT University  
+🎓 **B.Sc. in Computer Science** @ Nazarbayev University  
 
----
-
-### 🎓 Education
-
-- **Astana IT University** | Master's in Applied Data Analytics *(Current)*
-  - 🔬 **Research Focus:** Synthetic data detection in media content
-- **Nazarbayev University** | B.Sc. in Computer Science
+🔬 **Current Focus:** Synthetic data detection in media content  
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-**Languages & Data:**
-`Python` · `C++` · `PostgreSQL` · `MATLAB` · `HTML5 / CSS3`
-
----
-
-### 📌 Current Focus & Goals
-
-- 🔭 Currently researching **synthetic data detection** in media content for my thesis.
-- 🌱 Expanding my knowledge in **Data Science, Machine Learning & Data Analytics**.
-- 💡 Always eager to learn new technologies — *it's never too late to start*.
+### Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
-
-- 💼 **LinkedIn:** [yedab-koldasbek](https://www.linkedin.com/in/yedab-koldasbek)
-
----
-
-> *"When you're at rock bottom, the only way is up. But bottom doesn't have to be a dark, gloomy place. It's not embarrassing to fall; what matters is how you choose to climb out. There's always a ray of hope at the top."*  
+> *"When you're at rock bottom, the only way is up... There's always a ray of hope at the top."*  
 > — **Ichiban Kasuga**
